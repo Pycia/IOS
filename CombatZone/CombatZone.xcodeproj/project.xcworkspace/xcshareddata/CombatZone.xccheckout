@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3A57ADD-FDC4-4520-8F0C-FF15A79A9AF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CombatZone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E467D77F-2FB4-45DD-87D9-A65CE6DCD625</key>
+		<string>https://github.com/NataliaAdluna/CombatZone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CombatZoneApp/CombatZone/CombatZone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E467D77F-2FB4-45DD-87D9-A65CE6DCD625</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NataliaAdluna/CombatZone</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E467D77F-2FB4-45DD-87D9-A65CE6DCD625</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E467D77F-2FB4-45DD-87D9-A65CE6DCD625</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CombatZone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
